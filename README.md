@@ -10,3 +10,6 @@ Como essas referências acabam servindo como recomendações também, eu criei e
 ### Dom Casmurro de Machado de Assis (livro de 1899)
 - Referência a fala de Bentinho sobre Capitu "Olhos de cigana oblíqua e dissimulada..." aos 16:45 do vídeo _"Tutorial Instagram Clone Ep. 08 - Android | Kotlin | Jetpack Compose (Android Studio)"_ https://www.youtube.com/watch?v=ghkKcWaQwyQ&t
 
+### Elephant Gun - Beirut (música de 2006)
+- Referência a música, mais especificamente ao clipe "Capitu : Beirut - Elephant Gun" (https://www.youtube.com/watch?v=bYmaGvexazI) que aparentemente é uma fanart feita com cenas da série Capitu de 2008. Aos 22:50 do vídeo _"Tutorial Instagram Clone Ep. 08 - Android | Kotlin | Jetpack Compose (Android Studio)"_ https://www.youtube.com/watch?v=ghkKcWaQwyQ&t
+
