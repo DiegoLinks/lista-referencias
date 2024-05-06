@@ -7,3 +7,6 @@ Como essas referências acabam servindo como recomendações também, eu criei e
 ### Curtindo a Vida Adoidado (filme de 1986)
 - Referência a Sloane Peterson aos 21:45 do vídeo _"Tutorial Instagram Clone Ep. 04 - Android | Kotlin | Jetpack Compose (Android Studio)"_ https://www.youtube.com/watch?v=SuGpp7K8f1o
 
+### Dom Casmurro de Machado de Assis (livro de 1899)
+- Referência a fala de Bentinho sobre Capitu "Olhos de cigana oblíqua e dissimulada..." aos 16:45 do vídeo _"Tutorial Instagram Clone Ep. 08 - Android | Kotlin | Jetpack Compose (Android Studio)"_ https://www.youtube.com/watch?v=ghkKcWaQwyQ&t
+
