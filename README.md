@@ -14,7 +14,7 @@ Como essas referências acabam servindo como recomendações também, eu criei e
 - Referência a música, mais especificamente ao clipe "Capitu : Beirut - Elephant Gun" (https://www.youtube.com/watch?v=bYmaGvexazI) que aparentemente é uma fanart feita com cenas da série Capitu de 2008. Aos 22:50 do vídeo _"Tutorial Instagram Clone Ep. 08 - Android | Kotlin | Jetpack Compose (Android Studio)"_ https://www.youtube.com/watch?v=ghkKcWaQwyQ&t
 
 ### Caneta Azul - Manoel Gomes (música de 2020)
-- Referência a música aos 11:25  _"Tutorial Instagram Clone Ep. 12 - Android | Kotlin | Jetpack Compose (Android Studio)"_ https://www.youtube.com/watch?v=A4Xj6jc9Wdc
+- Referência a música (nesse caso é mais pelo meme do que pela referência em si, mas não deixa de ser uma música que marcou época. Em especial a época né, de 2019 para 2020, a gente nem imagina o que estava por vir com a pandemia) aos 11:25  _"Tutorial Instagram Clone Ep. 12 - Android | Kotlin | Jetpack Compose (Android Studio)"_ https://www.youtube.com/watch?v=A4Xj6jc9Wdc
 
 ### Noel Rosa (cantor-compositor brasileiro)
 - Referência ao cantor-compositor, no tutorial é usada uma imagem do filme "Noel - Poeta da Vila" filme de 2006 aos 11:31 _"Tutorial Instagram Clone Ep. 12 - Android | Kotlin | Jetpack Compose (Android Studio)"_ https://www.youtube.com/watch?v=A4Xj6jc9Wdc
