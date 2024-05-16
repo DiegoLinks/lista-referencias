@@ -16,7 +16,7 @@ Como essas referências acabam servindo como recomendações também, eu criei e
 ### Caneta Azul - Manoel Gomes (música de 2020)
 - Referência a música aos 11:25  _"Tutorial Instagram Clone Ep. 12 - Android | Kotlin | Jetpack Compose (Android Studio)"_ https://www.youtube.com/watch?v=A4Xj6jc9Wdc
 
-### Noel Rosa (Cantor-compositor brasileiro)
+### Noel Rosa (cantor-compositor brasileiro)
 - Referência ao cantor-compositor, no tutorial é usada uma imagem do filme "Noel - Poeta da Vila" filme de 2006 aos 11:31 _"Tutorial Instagram Clone Ep. 12 - Android | Kotlin | Jetpack Compose (Android Studio)"_ https://www.youtube.com/watch?v=A4Xj6jc9Wdc
 
 ### Legião Urbana (banda brasileira)
