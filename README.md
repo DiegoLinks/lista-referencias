@@ -22,3 +22,5 @@ Como essas referências acabam servindo como recomendações também, eu criei e
 ### Legião Urbana (banda brasileira)
 - Referência a banda aos 11:37 _"Tutorial Instagram Clone Ep. 12 - Android | Kotlin | Jetpack Compose (Android Studio)"_ https://www.youtube.com/watch?v=A4Xj6jc9Wdc
 
+### O velho e o moço - Los Hermanos (música de 2003)
+- Referência ao verso "E se eu fosse o primeiro a voltar pra mudar o que eu fiz quem então agora eu seria?" aos 4:52 _"Tutorial Android: Traduzindo o aplicativo pra vários idiomas (Android Studio)"_ https://youtu.be/AXGR74wuyro
